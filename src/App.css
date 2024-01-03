@@ -1,0 +1,6 @@
+*{
+  overflow: hidden;
+}
+canvas{
+  height: 100vh !important;
+}
